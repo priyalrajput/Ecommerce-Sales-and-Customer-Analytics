@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Power BI temp files
+*.pbix
+*.pbit
+*.tmp
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Local environment
+.env

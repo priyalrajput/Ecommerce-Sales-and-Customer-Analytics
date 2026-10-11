@@ -1,0 +1,181 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,State,City,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Payment Mode
+CA-2023-001,2023-04-25,2023-04-28,Standard Class,CU-108,Henry Lopez,Consumer,United States,Colorado,Denver,West,PROD-1000,Furniture,Chairs,Executive Chair,2619,6,0.03,376.33,Wire Transfer
+CA-2023-002,2023-04-30,2023-05-01,Same Day,CU-103,Chloe Nguyen,Home Office,United States,Texas,Dallas,Central,PROD-1001,Furniture,Chairs,Executive Chair,2115,5,0.06,277.03,Debit Card
+CA-2023-003,2023-03-23,2023-03-30,First Class,CU-129,Charlotte Adams,Corporate,United States,Ohio,Cleveland,Central,PROD-1002,Office Supplies,Fasteners,Industrial Staples Box,66.24,3,0.08,11.27,Credit Card
+CA-2023-004,2023-06-26,2023-07-01,Same Day,CU-106,Frank Wilson,Consumer,United States,California,San Francisco,West,PROD-1003,Office Supplies,Paper,Copy Paper Ream,42.9,1,0.22,7.51,Credit Card
+CA-2023-005,2023-12-27,2023-12-29,Standard Class,CU-136,Jacob Reed,Consumer,United States,New Jersey,Newark,East,PROD-1004,Office Supplies,Binders,Premium Binder Set,96,1,0.2,18.07,Debit Card
+CA-2023-006,2023-11-22,2023-11-28,First Class,CU-107,Grace Hall,Home Office,United States,North Carolina,Raleigh,South,PROD-1005,Office Supplies,Paper,Copy Paper Ream,97.9,2,0.11,12.66,Credit Card
+CA-2023-007,2023-03-25,2023-04-02,Second Class,CU-139,Mila Nguyen,Corporate,United States,Illinois,Chicago,Central,PROD-1006,Technology,Laptops,EliteBook 15,5336,4,0.08,1224.9,PayPal
+CA-2023-008,2023-07-25,2023-07-30,First Class,CU-104,David Lee,Consumer,United States,Florida,Orlando,South,PROD-1007,Furniture,Furnishings,Decorative Desk Lamp,112.8,1,0.06,21.66,Debit Card
+CA-2023-009,2023-05-16,2023-05-19,Same Day,CU-132,Felix Brooks,Corporate,United States,Virginia,Richmond,East,PROD-1008,Office Supplies,Paper,Copy Paper Ream,85.8,2,0.22,15.05,Wire Transfer
+CA-2023-010,2023-02-16,2023-02-17,Same Day,CU-124,Xavier Clark,Home Office,United States,Washington,Spokane,West,PROD-1009,Furniture,Furnishings,Decorative Desk Lamp,114,1,0.05,9.39,Credit Card
+CA-2023-011,2023-10-11,2023-10-12,First Class,CU-125,Yolanda Ward,Corporate,United States,Arizona,Phoenix,West,PROD-1010,Office Supplies,Paper,Copy Paper Ream,257.4,6,0.22,50.31,PayPal
+CA-2023-012,2023-08-21,2023-08-22,Second Class,CU-108,Henry Lopez,Consumer,United States,Arizona,Phoenix,West,PROD-1011,Office Supplies,Binders,Premium Binder Set,532.8,6,0.26,62.27,Credit Card
+CA-2023-013,2023-07-11,2023-07-14,Standard Class,CU-120,Tara Lewis,Corporate,United States,Georgia,Atlanta,South,PROD-1012,Technology,Printers,Color Laser Printer,1846,5,0.29,293.77,PayPal
+CA-2023-014,2023-06-07,2023-06-11,Standard Class,CU-132,Felix Brooks,Corporate,United States,New York,Buffalo,East,PROD-1013,Furniture,Chairs,Executive Chair,418.5,1,0.07,49.98,Credit Card
+CA-2023-015,2023-03-06,2023-03-09,First Class,CU-132,Felix Brooks,Corporate,United States,New York,Albany,East,PROD-1014,Technology,Printers,Color Laser Printer,2683.2,6,0.14,287.03,Wire Transfer
+CA-2023-016,2023-07-24,2023-07-30,Second Class,CU-114,Nathan Hall,Consumer,United States,Illinois,Chicago,Central,PROD-1015,Office Supplies,Envelopes,Premium Envelopes Pack,262.8,4,0.27,27.12,Debit Card
+CA-2023-017,2023-10-29,2023-11-02,Second Class,CU-105,Emily Garcia,Corporate,United States,Texas,Dallas,Central,PROD-1016,Office Supplies,Binders,Executive Binder Pack,107.8,1,0.02,17.07,Credit Card
+CA-2023-018,2023-09-21,2023-09-25,Second Class,CU-103,Chloe Nguyen,Home Office,United States,Ohio,Cleveland,Central,PROD-1017,Technology,Phones,Smartphone Stand,132,3,0.2,31.68,Wire Transfer
+CA-2023-019,2023-04-08,2023-04-10,Same Day,CU-116,Patrick Young,Corporate,United States,Texas,San Antonio,South,PROD-1018,Technology,Printers,Compact Inkjet Printer,264,1,0.2,21.01,Wire Transfer
+CA-2023-020,2023-07-26,2023-08-01,Same Day,CU-104,David Lee,Consumer,United States,Florida,Miami,South,PROD-1019,Technology,Accessories,Wireless Mouse,29.76,1,0.07,6.15,Debit Card
+CA-2023-021,2023-05-08,2023-05-10,Standard Class,CU-128,Bryan Gray,Consumer,United States,Ohio,Columbus,Central,PROD-1020,Furniture,Bookcases,Compact Shelving Unit,1824,4,0.24,255.06,Credit Card
+CA-2023-022,2023-05-02,2023-05-05,Same Day,CU-135,Ivy Cooper,Corporate,United States,California,Los Angeles,West,PROD-1021,Technology,Printers,Color Laser Printer,1768,4,0.15,105.95,Credit Card
+CA-2023-023,2023-05-16,2023-05-24,Same Day,CU-111,Kimberly Patel,Home Office,United States,New York,Buffalo,East,PROD-1022,Office Supplies,Paper,Copy Paper Ream,143.55,3,0.13,33.59,Debit Card
+CA-2023-024,2023-10-24,2023-10-25,Same Day,CU-113,Mia Thompson,Corporate,United States,Washington,Seattle,West,PROD-1023,Office Supplies,Binders,Premium Binder Set,655.2,6,0.09,57.02,Debit Card
+CA-2023-025,2023-02-05,2023-02-07,Second Class,CU-104,David Lee,Consumer,United States,Florida,Miami,South,PROD-1024,Office Supplies,Art,Presentation Board,310.8,6,0.26,54.87,Credit Card
+CA-2023-026,2023-05-14,2023-05-18,Same Day,CU-140,Noah Barnes,Home Office,United States,Virginia,Richmond,East,PROD-1025,Furniture,Tables,Glass Meeting Table,3223.2,6,0.21,301.1,Debit Card
+CA-2023-027,2023-01-05,2023-01-13,Standard Class,CU-120,Tara Lewis,Corporate,United States,North Carolina,Raleigh,South,PROD-1026,Office Supplies,Appliances,Air Purifier,735,5,0.3,139.25,Debit Card
+CA-2023-028,2023-02-05,2023-02-09,First Class,CU-133,Gina Morris,Home Office,United States,Georgia,Atlanta,South,PROD-1027,Furniture,Furnishings,Standing Desk Lamp,409.5,3,0.09,53.79,Credit Card
+CA-2023-029,2023-05-16,2023-05-18,First Class,CU-136,Jacob Reed,Consumer,United States,New York,New York City,East,PROD-1028,Office Supplies,Binders,Premium Binder Set,93.6,1,0.22,9.52,Debit Card
+CA-2023-030,2023-05-09,2023-05-10,Standard Class,CU-122,Victor Hill,Corporate,United States,Ohio,Columbus,Central,PROD-1029,Furniture,Storage,Mobile Filing Cabinet,194.4,1,0.19,36.18,Credit Card
+CA-2023-031,2023-03-24,2023-04-01,Standard Class,CU-122,Victor Hill,Corporate,United States,Illinois,Chicago,Central,PROD-1030,Technology,Monitors,27-inch 4K Monitor,1659,5,0.21,97.1,Credit Card
+CA-2023-032,2023-10-26,2023-10-29,Standard Class,CU-110,Jack Brooks,Consumer,United States,Texas,Austin,Central,PROD-1031,Office Supplies,Envelopes,Premium Envelopes Pack,345.6,4,0.04,28.74,PayPal
+CA-2023-033,2023-07-01,2023-07-08,Second Class,CU-114,Nathan Hall,Consumer,United States,Illinois,Chicago,Central,PROD-1032,Technology,Accessories,Wireless Mouse,124.8,5,0.22,38.64,Debit Card
+CA-2023-034,2023-04-02,2023-04-08,Second Class,CU-112,Liam Reed,Consumer,United States,Texas,Houston,South,PROD-1033,Technology,Tablets,8-inch Tablet,1641.6,4,0.24,297.08,PayPal
+CA-2023-035,2023-01-20,2023-01-28,First Class,CU-111,Kimberly Patel,Home Office,United States,New York,Buffalo,East,PROD-1034,Technology,Printers,Compact Inkjet Printer,620.4,2,0.06,98.39,PayPal
+CA-2023-036,2023-07-24,2023-07-30,First Class,CU-115,Olivia Perez,Home Office,United States,California,San Diego,West,PROD-1035,Furniture,Furnishings,Decorative Desk Lamp,266.4,3,0.26,52.05,PayPal
+CA-2023-037,2023-03-01,2023-03-06,Standard Class,CU-133,Gina Morris,Home Office,United States,North Carolina,Raleigh,South,PROD-1036,Office Supplies,Paper,Copy Paper Ream,91.3,2,0.17,21.7,Credit Card
+CA-2023-038,2023-08-12,2023-08-14,Standard Class,CU-139,Mila Nguyen,Corporate,United States,Ohio,Columbus,Central,PROD-1037,Office Supplies,Storage,File Cabinet,671.6,4,0.27,51.45,Wire Transfer
+CA-2023-039,2023-08-09,2023-08-11,Standard Class,CU-101,Alicia Smith,Consumer,United States,Washington,Spokane,West,PROD-1038,Office Supplies,Art,Presentation Board,302.4,6,0.28,62.67,PayPal
+CA-2023-040,2023-07-26,2023-07-31,Same Day,CU-133,Gina Morris,Home Office,United States,Texas,Austin,South,PROD-1039,Office Supplies,Binders,Premium Binder Set,576,5,0.04,79.98,Debit Card
+CA-2023-041,2023-10-08,2023-10-09,First Class,CU-140,Noah Barnes,Home Office,United States,New Jersey,Newark,East,PROD-1040,Office Supplies,Fasteners,Industrial Staples Box,65.52,3,0.09,13.12,Wire Transfer
+CA-2023-042,2023-03-28,2023-03-30,First Class,CU-129,Charlotte Adams,Corporate,United States,Illinois,Chicago,Central,PROD-1041,Office Supplies,Appliances,Air Purifier,535.5,3,0.15,74.23,Credit Card
+CA-2023-043,2023-04-12,2023-04-15,Standard Class,CU-116,Patrick Young,Corporate,United States,North Carolina,Raleigh,South,PROD-1042,Technology,Accessories,Wireless Mouse,31.68,1,0.01,10.07,Wire Transfer
+CA-2023-044,2023-09-11,2023-09-18,Standard Class,CU-127,Abigail Flores,Home Office,United States,Massachusetts,Worcester,East,PROD-1043,Technology,Tablets,8-inch Tablet,1036.8,2,0.04,162.02,Wire Transfer
+CA-2023-045,2023-10-13,2023-10-17,First Class,CU-115,Olivia Perez,Home Office,United States,Arizona,Phoenix,West,PROD-1044,Furniture,Bookcases,Compact Shelving Unit,516,1,0.14,68.21,Wire Transfer
+CA-2023-046,2023-03-23,2023-03-31,First Class,CU-140,Noah Barnes,Home Office,United States,Virginia,Richmond,East,PROD-1045,Technology,Printers,Color Laser Printer,1913.6,4,0.08,123.64,Wire Transfer
+CA-2023-047,2024-01-01,2024-01-06,Standard Class,CU-116,Patrick Young,Corporate,United States,Texas,Houston,South,PROD-1046,Furniture,Furnishings,Standing Desk Lamp,276,2,0.08,31.67,Debit Card
+CA-2023-048,2023-12-28,2024-01-01,Same Day,CU-110,Jack Brooks,Consumer,United States,Michigan,Detroit,Central,PROD-1047,Furniture,Furnishings,Decorative Desk Lamp,105.6,1,0.12,11.23,Wire Transfer
+CA-2023-049,2023-10-27,2023-10-28,First Class,CU-104,David Lee,Consumer,United States,Texas,San Antonio,South,PROD-1048,Furniture,Storage,Mobile Filing Cabinet,1068,5,0.11,75.64,PayPal
+CA-2023-050,2023-09-07,2023-09-11,First Class,CU-125,Yolanda Ward,Corporate,United States,Arizona,Phoenix,West,PROD-1049,Technology,Phones,Smartphone Stand,143.55,3,0.13,30.73,Wire Transfer
+CA-2023-051,2023-11-15,2023-11-16,Standard Class,CU-111,Kimberly Patel,Home Office,United States,Virginia,Richmond,East,PROD-1050,Technology,Printers,Color Laser Printer,1705.6,4,0.18,209.48,Wire Transfer
+CA-2023-052,2023-01-26,2023-01-31,First Class,CU-109,Isabella Moore,Corporate,United States,Virginia,Richmond,East,PROD-1051,Technology,Phones,Smartphone Stand,198,4,0.1,54.18,Wire Transfer
+CA-2023-053,2023-02-11,2023-02-19,First Class,CU-118,Rachel Scott,Home Office,United States,Arizona,Phoenix,West,PROD-1052,Technology,Monitors,27-inch 4K Monitor,327.6,1,0.22,-4.16,Debit Card
+CA-2023-054,2023-05-07,2023-05-11,Same Day,CU-105,Emily Garcia,Corporate,United States,Texas,Houston,Central,PROD-1053,Technology,Monitors,27-inch 4K Monitor,340.2,1,0.19,4.56,Credit Card
+CA-2023-055,2023-07-08,2023-07-11,Standard Class,CU-137,Kara Jenkins,Home Office,United States,Arizona,Phoenix,West,PROD-1054,Furniture,Storage,Mobile Filing Cabinet,984,5,0.18,171.91,Debit Card
+CA-2023-056,2023-10-22,2023-10-29,Second Class,CU-120,Tara Lewis,Corporate,United States,Florida,Orlando,South,PROD-1055,Furniture,Tables,Wood Executive Desk,2505.6,4,0.28,244.96,Credit Card
+CA-2023-057,2023-01-22,2023-01-28,First Class,CU-120,Tara Lewis,Corporate,United States,Florida,Tampa,South,PROD-1056,Technology,Phones,Smartphone Stand,239.25,5,0.13,62.65,Credit Card
+CA-2023-058,2023-08-10,2023-08-16,Second Class,CU-127,Abigail Flores,Home Office,United States,Virginia,Richmond,East,PROD-1057,Technology,Printers,Color Laser Printer,2277.6,6,0.27,214.92,Wire Transfer
+CA-2023-059,2023-08-27,2023-09-03,Second Class,CU-112,Liam Reed,Consumer,United States,North Carolina,Raleigh,South,PROD-1058,Technology,Monitors,24-inch LED Monitor,1279.2,6,0.18,44.93,Credit Card
+CA-2023-060,2023-08-26,2023-09-02,Second Class,CU-118,Rachel Scott,Home Office,United States,Arizona,Phoenix,West,PROD-1059,Technology,Tablets,8-inch Tablet,1603.8,3,0.01,287.29,Wire Transfer
+CA-2023-061,2023-05-24,2023-05-29,Standard Class,CU-114,Nathan Hall,Consumer,United States,Ohio,Columbus,Central,PROD-1060,Office Supplies,Paper,Premium Printing Paper,375,5,0,83.52,Debit Card
+CA-2023-062,2023-11-27,2023-12-05,Second Class,CU-127,Abigail Flores,Home Office,United States,Massachusetts,Worcester,East,PROD-1061,Office Supplies,Labels,Adhesive Name Labels,145.92,4,0.24,19.41,Wire Transfer
+CA-2023-063,2023-10-11,2023-10-17,First Class,CU-116,Patrick Young,Corporate,United States,North Carolina,Raleigh,South,PROD-1062,Office Supplies,Binders,Premium Binder Set,336,4,0.3,52.77,Wire Transfer
+CA-2023-064,2023-03-03,2023-03-07,Second Class,CU-118,Rachel Scott,Home Office,United States,Colorado,Denver,West,PROD-1063,Office Supplies,Binders,Premium Binder Set,345.6,3,0.04,53.58,Debit Card
+CA-2023-065,2023-10-29,2023-11-03,First Class,CU-114,Nathan Hall,Consumer,United States,Michigan,Detroit,Central,PROD-1064,Technology,Monitors,24-inch LED Monitor,195,1,0.25,6.14,Debit Card
+CA-2023-066,2023-01-24,2023-01-25,Same Day,CU-120,Tara Lewis,Corporate,United States,Georgia,Atlanta,South,PROD-1065,Furniture,Chairs,Executive Chair,2047.5,5,0.09,352.52,Credit Card
+CA-2023-067,2023-09-03,2023-09-11,Same Day,CU-101,Alicia Smith,Consumer,United States,Colorado,Boulder,West,PROD-1066,Office Supplies,Fasteners,Industrial Staples Box,67.68,3,0.06,9.96,Credit Card
+CA-2023-068,2023-10-23,2023-10-24,First Class,CU-105,Emily Garcia,Corporate,United States,Michigan,Detroit,Central,PROD-1067,Office Supplies,Paper,Copy Paper Ream,105.6,2,0.04,18.88,Credit Card
+CA-2023-069,2023-09-25,2023-10-02,Same Day,CU-116,Patrick Young,Corporate,United States,Texas,Dallas,South,PROD-1068,Furniture,Tables,Wood Executive Desk,2540.4,4,0.27,283.58,PayPal
+CA-2023-070,2023-04-17,2023-04-21,Second Class,CU-137,Kara Jenkins,Home Office,United States,California,Los Angeles,West,PROD-1069,Technology,Laptops,ProBook 14,2352,3,0.2,192.84,Credit Card
+CA-2023-071,2023-12-19,2023-12-27,First Class,CU-111,Kimberly Patel,Home Office,United States,Virginia,Richmond,East,PROD-1070,Furniture,Chairs,Executive Chair,1336.5,3,0.01,107.37,Wire Transfer
+CA-2023-072,2023-11-17,2023-11-21,Second Class,CU-105,Emily Garcia,Corporate,United States,Illinois,Chicago,Central,PROD-1071,Technology,Accessories,Wireless Mouse,124.16,4,0.03,26.26,PayPal
+CA-2023-073,2023-06-07,2023-06-12,Same Day,CU-110,Jack Brooks,Consumer,United States,Texas,Dallas,Central,PROD-1072,Furniture,Tables,Glass Meeting Table,2611.2,4,0.04,408.43,PayPal
+CA-2023-074,2023-02-11,2023-02-12,Standard Class,CU-133,Gina Morris,Home Office,United States,Texas,San Antonio,South,PROD-1073,Office Supplies,Envelopes,Premium Envelopes Pack,280.8,4,0.22,34.97,Credit Card
+CA-2023-075,2023-10-23,2023-10-24,First Class,CU-115,Olivia Perez,Home Office,United States,California,San Francisco,West,PROD-1074,Technology,Accessories,Wireless Mouse,55.04,2,0.14,14.93,Debit Card
+CA-2023-076,2023-08-29,2023-09-04,Second Class,CU-138,Leo Price,Consumer,United States,Texas,Houston,South,PROD-1075,Office Supplies,Storage,File Cabinet,828,4,0.1,119.08,PayPal
+CA-2023-077,2023-12-06,2023-12-13,First Class,CU-127,Abigail Flores,Home Office,United States,Virginia,Richmond,East,PROD-1076,Technology,Accessories,USB-C Hub,356.4,5,0.01,64.98,PayPal
+CA-2023-078,2023-12-03,2023-12-11,Same Day,CU-108,Henry Lopez,Consumer,United States,Arizona,Phoenix,West,PROD-1077,Technology,Monitors,27-inch 4K Monitor,1646.4,4,0.02,86.57,Wire Transfer
+CA-2023-079,2023-05-28,2023-06-05,Second Class,CU-104,David Lee,Consumer,United States,North Carolina,Raleigh,South,PROD-1078,Furniture,Storage,Mobile Filing Cabinet,1224,6,0.15,90.63,Debit Card
+CA-2023-080,2023-07-28,2023-07-30,Same Day,CU-120,Tara Lewis,Corporate,United States,Florida,Tampa,South,PROD-1079,Office Supplies,Envelopes,Premium Envelopes Pack,126,2,0.3,21.14,Credit Card
+CA-2023-081,2023-08-01,2023-08-09,Same Day,CU-110,Jack Brooks,Consumer,United States,Ohio,Columbus,Central,PROD-1080,Office Supplies,Labels,Adhesive Name Labels,178.56,4,0.07,35.21,Debit Card
+CA-2023-082,2023-05-22,2023-05-29,Standard Class,CU-139,Mila Nguyen,Corporate,United States,Illinois,Chicago,Central,PROD-1081,Office Supplies,Art,Presentation Board,151.2,3,0.28,28.89,PayPal
+CA-2023-083,2023-08-17,2023-08-25,Same Day,CU-120,Tara Lewis,Corporate,United States,Texas,Dallas,South,PROD-1082,Technology,Printers,Color Laser Printer,1404,3,0.1,192.07,Wire Transfer
+CA-2023-084,2023-10-20,2023-10-27,First Class,CU-121,Uma Adams,Home Office,United States,Washington,Seattle,West,PROD-1083,Technology,Phones,Smartphone Stand,81.4,2,0.26,21.78,Wire Transfer
+CA-2023-085,2023-01-19,2023-01-22,Standard Class,CU-125,Yolanda Ward,Corporate,United States,Washington,Spokane,West,PROD-1084,Office Supplies,Paper,Copy Paper Ream,195.25,5,0.29,28.6,Wire Transfer
+CA-2023-086,2023-03-15,2023-03-22,First Class,CU-107,Grace Hall,Home Office,United States,Texas,Houston,South,PROD-1085,Office Supplies,Art,Presentation Board,298.2,6,0.29,38.91,PayPal
+CA-2023-087,2023-06-18,2023-06-25,Same Day,CU-140,Noah Barnes,Home Office,United States,Virginia,Richmond,East,PROD-1086,Technology,Accessories,USB-C Hub,174.96,3,0.19,51.48,Credit Card
+CA-2023-088,2023-04-27,2023-04-29,Standard Class,CU-140,Noah Barnes,Home Office,United States,Massachusetts,Worcester,East,PROD-1087,Furniture,Tables,Glass Meeting Table,1931.2,4,0.29,321.45,Wire Transfer
+CA-2023-089,2023-01-24,2023-01-30,Second Class,CU-111,Kimberly Patel,Home Office,United States,New Jersey,Newark,East,PROD-1088,Technology,Accessories,USB-C Hub,65.52,1,0.09,14.58,Debit Card
+CA-2023-090,2023-03-31,2023-04-02,Second Class,CU-134,Hugo Stone,Consumer,United States,Illinois,Chicago,Central,PROD-1089,Office Supplies,Storage,File Cabinet,851,5,0.26,116.38,Wire Transfer
+CA-2023-091,2023-11-23,2023-11-28,Same Day,CU-138,Leo Price,Consumer,United States,Georgia,Atlanta,South,PROD-1090,Furniture,Bookcases,Wooden Storage Bookcase,1987.2,4,0.08,82.1,PayPal
+CA-2023-092,2023-06-26,2023-07-01,Same Day,CU-135,Ivy Cooper,Corporate,United States,California,Sacramento,West,PROD-1091,Furniture,Bookcases,Compact Shelving Unit,2556,6,0.29,298.14,PayPal
+CA-2023-093,2023-05-02,2023-05-09,First Class,CU-113,Mia Thompson,Corporate,United States,Arizona,Phoenix,West,PROD-1092,Office Supplies,Paper,Copy Paper Ream,244.75,5,0.11,34.61,Credit Card
+CA-2023-094,2023-12-18,2023-12-19,First Class,CU-126,Zachary Evans,Consumer,United States,New York,Albany,East,PROD-1093,Furniture,Furnishings,Standing Desk Lamp,585,5,0.22,109.16,Debit Card
+CA-2023-095,2023-11-22,2023-11-26,Second Class,CU-139,Mila Nguyen,Corporate,United States,Ohio,Cleveland,Central,PROD-1094,Technology,Printers,Compact Inkjet Printer,1518,5,0.08,206.12,Credit Card
+CA-2023-096,2023-10-24,2023-10-30,First Class,CU-103,Chloe Nguyen,Home Office,United States,Michigan,Detroit,Central,PROD-1095,Office Supplies,Binders,Premium Binder Set,691.2,6,0.04,143.32,Wire Transfer
+CA-2023-097,2023-09-29,2023-10-04,Same Day,CU-112,Liam Reed,Consumer,United States,Georgia,Atlanta,South,PROD-1096,Furniture,Storage,Mobile Filing Cabinet,441.6,2,0.08,81.9,PayPal
+CA-2023-098,2023-02-08,2023-02-11,Same Day,CU-122,Victor Hill,Corporate,United States,Texas,San Antonio,Central,PROD-1097,Technology,Printers,Compact Inkjet Printer,488.4,2,0.26,64.17,PayPal
+CA-2023-099,2023-05-16,2023-05-18,First Class,CU-106,Frank Wilson,Consumer,United States,Arizona,Phoenix,West,PROD-1098,Technology,Printers,Compact Inkjet Printer,1174.8,4,0.11,158.44,Wire Transfer
+CA-2023-100,2023-01-13,2023-01-19,Same Day,CU-124,Xavier Clark,Home Office,United States,Washington,Spokane,West,PROD-1099,Furniture,Tables,Wood Executive Desk,4045.5,5,0.07,318.99,PayPal
+CA-2023-101,2023-01-20,2023-01-25,Second Class,CU-127,Abigail Flores,Home Office,United States,Massachusetts,Boston,East,PROD-1000,Furniture,Tables,Wood Executive Desk,3375.6,4,0.03,347.25,Wire Transfer
+CA-2023-102,2023-08-01,2023-08-03,First Class,CU-130,Daniel Ross,Consumer,United States,Texas,Dallas,South,PROD-1001,Office Supplies,Paper,Premium Printing Paper,246,4,0.18,54.48,Credit Card
+CA-2023-103,2023-05-01,2023-05-07,First Class,CU-124,Xavier Clark,Home Office,United States,Arizona,Phoenix,West,PROD-1002,Furniture,Storage,Mobile Filing Cabinet,170.4,1,0.29,20.69,Credit Card
+CA-2023-104,2023-08-21,2023-08-23,Standard Class,CU-126,Zachary Evans,Consumer,United States,Massachusetts,Boston,East,PROD-1003,Furniture,Furnishings,Standing Desk Lamp,846,6,0.06,134.96,Credit Card
+CA-2023-105,2023-02-05,2023-02-09,First Class,CU-122,Victor Hill,Corporate,United States,Illinois,Chicago,Central,PROD-1004,Furniture,Furnishings,Decorative Desk Lamp,564,5,0.06,102.51,Debit Card
+CA-2023-106,2023-03-08,2023-03-13,Second Class,CU-139,Mila Nguyen,Corporate,United States,Ohio,Cleveland,Central,PROD-1005,Furniture,Chairs,Executive Chair,873,2,0.03,140.82,Credit Card
+CA-2023-107,2023-01-09,2023-01-12,Standard Class,CU-123,Wendy Perez,Consumer,United States,Georgia,Atlanta,South,PROD-1006,Technology,Printers,Compact Inkjet Printer,970.2,3,0.02,129.85,Credit Card
+CA-2023-108,2023-08-20,2023-08-24,First Class,CU-131,Ella Turner,Consumer,United States,Colorado,Denver,West,PROD-1007,Office Supplies,Appliances,Air Purifier,1039.5,5,0.01,165.96,Wire Transfer
+CA-2023-109,2023-08-07,2023-08-09,Standard Class,CU-102,Ben Carter,Corporate,United States,Virginia,Richmond,East,PROD-1008,Furniture,Chairs,Ergonomic Office Chair,1232.4,4,0.21,113.5,PayPal
+CA-2023-110,2023-05-21,2023-05-27,Same Day,CU-139,Mila Nguyen,Corporate,United States,Texas,Dallas,Central,PROD-1009,Furniture,Bookcases,Wooden Storage Bookcase,1512,4,0.3,172.79,Wire Transfer
+CA-2023-111,2023-11-30,2023-12-04,First Class,CU-107,Grace Hall,Home Office,United States,Florida,Tampa,South,PROD-1010,Technology,Printers,Compact Inkjet Printer,1135.2,4,0.14,70.37,Wire Transfer
+CA-2023-112,2023-08-07,2023-08-13,Same Day,CU-126,Zachary Evans,Consumer,United States,New York,Buffalo,East,PROD-1011,Office Supplies,Storage,File Cabinet,1269.6,6,0.08,232.98,Credit Card
+CA-2023-113,2023-08-10,2023-08-12,Standard Class,CU-106,Frank Wilson,Consumer,United States,California,Los Angeles,West,PROD-1012,Technology,Printers,Color Laser Printer,2433.6,6,0.22,349.58,PayPal
+CA-2023-114,2023-01-27,2023-02-01,Second Class,CU-108,Henry Lopez,Consumer,United States,Colorado,Boulder,West,PROD-1013,Office Supplies,Storage,File Cabinet,1046.5,5,0.09,67.5,Debit Card
+CA-2023-115,2023-10-12,2023-10-18,Same Day,CU-131,Ella Turner,Consumer,United States,California,San Francisco,West,PROD-1014,Furniture,Furnishings,Decorative Desk Lamp,92.4,1,0.23,12.97,Credit Card
+CA-2023-116,2023-04-03,2023-04-08,First Class,CU-139,Mila Nguyen,Corporate,United States,Ohio,Cleveland,Central,PROD-1015,Technology,Accessories,Wireless Mouse,147.84,6,0.23,45.68,Credit Card
+CA-2023-117,2023-02-05,2023-02-08,Second Class,CU-112,Liam Reed,Consumer,United States,Georgia,Atlanta,South,PROD-1016,Technology,Phones,Smartphone Stand,267.3,6,0.19,57.28,Wire Transfer
+CA-2023-118,2023-07-09,2023-07-14,Standard Class,CU-127,Abigail Flores,Home Office,United States,New Jersey,Newark,East,PROD-1017,Office Supplies,Appliances,Air Purifier,1134,6,0.1,206.16,Credit Card
+CA-2023-119,2023-05-20,2023-05-28,Same Day,CU-110,Jack Brooks,Consumer,United States,Texas,Houston,Central,PROD-1018,Furniture,Bookcases,Compact Shelving Unit,3132,6,0.13,328.83,PayPal
+CA-2023-120,2023-08-09,2023-08-11,First Class,CU-114,Nathan Hall,Consumer,United States,Texas,Austin,Central,PROD-1019,Technology,Monitors,27-inch 4K Monitor,1008,3,0.2,63.54,Credit Card
+CA-2023-121,2023-04-15,2023-04-20,First Class,CU-115,Olivia Perez,Home Office,United States,California,Los Angeles,West,PROD-1020,Office Supplies,Paper,Copy Paper Ream,84.7,2,0.23,17.53,PayPal
+CA-2023-122,2023-03-31,2023-04-03,First Class,CU-108,Henry Lopez,Consumer,United States,Arizona,Phoenix,West,PROD-1021,Furniture,Chairs,Executive Chair,1512,4,0.16,109.19,Credit Card
+CA-2023-123,2023-01-10,2023-01-18,Same Day,CU-126,Zachary Evans,Consumer,United States,New York,Buffalo,East,PROD-1022,Technology,Phones,Smartphone Stand,40.7,1,0.26,11.83,Wire Transfer
+CA-2023-124,2023-06-16,2023-06-19,First Class,CU-119,Samuel Green,Consumer,United States,Michigan,Detroit,Central,PROD-1023,Furniture,Tables,Wood Executive Desk,3741,5,0.14,623.05,Credit Card
+CA-2023-125,2023-08-12,2023-08-19,First Class,CU-128,Bryan Gray,Consumer,United States,Texas,Dallas,Central,PROD-1024,Technology,Phones,Smartphone Stand,269.5,5,0.02,89.44,Debit Card
+CA-2023-126,2023-09-19,2023-09-21,First Class,CU-122,Victor Hill,Corporate,United States,Illinois,Chicago,Central,PROD-1025,Technology,Monitors,27-inch 4K Monitor,1785,5,0.15,190.69,PayPal
+CA-2023-127,2023-05-12,2023-05-16,Standard Class,CU-110,Jack Brooks,Consumer,United States,Texas,Dallas,Central,PROD-1026,Furniture,Furnishings,Decorative Desk Lamp,196.8,2,0.18,32.75,Debit Card
+CA-2023-128,2023-11-18,2023-11-24,First Class,CU-132,Felix Brooks,Corporate,United States,Virginia,Richmond,East,PROD-1027,Office Supplies,Appliances,Air Purifier,365.4,2,0.13,42.26,PayPal
+CA-2023-129,2023-06-08,2023-06-16,First Class,CU-138,Leo Price,Consumer,United States,North Carolina,Raleigh,South,PROD-1028,Furniture,Chairs,Ergonomic Office Chair,1544.4,4,0.01,126.06,Credit Card
+CA-2023-130,2023-10-25,2023-10-26,Second Class,CU-106,Frank Wilson,Consumer,United States,Arizona,Phoenix,West,PROD-1029,Technology,Laptops,ProBook 14,2861.6,4,0.27,400.72,PayPal
+CA-2023-131,2023-08-19,2023-08-21,Second Class,CU-139,Mila Nguyen,Corporate,United States,Illinois,Chicago,Central,PROD-1030,Office Supplies,Labels,Adhesive Name Labels,102.24,3,0.29,13.48,Credit Card
+CA-2023-132,2023-09-26,2023-09-29,Same Day,CU-116,Patrick Young,Corporate,United States,Texas,San Antonio,South,PROD-1031,Technology,Accessories,USB-C Hub,192.24,3,0.11,40.29,PayPal
+CA-2023-133,2023-06-18,2023-06-20,Second Class,CU-139,Mila Nguyen,Corporate,United States,Ohio,Cleveland,Central,PROD-1032,Furniture,Chairs,Ergonomic Office Chair,1560,5,0.2,108.86,PayPal
+CA-2023-134,2023-06-08,2023-06-15,First Class,CU-106,Frank Wilson,Consumer,United States,Washington,Spokane,West,PROD-1033,Office Supplies,Fasteners,Industrial Staples Box,39.36,2,0.18,10.68,Wire Transfer
+CA-2023-135,2023-11-27,2023-12-04,Second Class,CU-122,Victor Hill,Corporate,United States,Illinois,Chicago,Central,PROD-1034,Technology,Printers,Color Laser Printer,2314,5,0.11,186.89,Debit Card
+CA-2023-136,2023-04-26,2023-04-29,Standard Class,CU-122,Victor Hill,Corporate,United States,Michigan,Detroit,Central,PROD-1035,Technology,Monitors,27-inch 4K Monitor,823.2,2,0.02,80.85,Credit Card
+CA-2023-137,2023-03-20,2023-03-23,Second Class,CU-122,Victor Hill,Corporate,United States,Illinois,Chicago,Central,PROD-1036,Technology,Tablets,8-inch Tablet,810,2,0.25,136.04,Wire Transfer
+CA-2023-138,2023-08-16,2023-08-21,Second Class,CU-103,Chloe Nguyen,Home Office,United States,Ohio,Cleveland,Central,PROD-1037,Office Supplies,Storage,File Cabinet,1048.8,6,0.24,86.8,PayPal
+CA-2023-139,2023-12-14,2023-12-22,Same Day,CU-131,Ella Turner,Consumer,United States,Washington,Spokane,West,PROD-1038,Technology,Tablets,8-inch Tablet,1663.2,4,0.23,280.98,Debit Card
+CA-2023-140,2023-01-27,2023-02-04,Standard Class,CU-113,Mia Thompson,Corporate,United States,Washington,Spokane,West,PROD-1039,Technology,Printers,Compact Inkjet Printer,821.7,3,0.17,36.45,PayPal
+CA-2023-141,2023-08-19,2023-08-22,Same Day,CU-106,Frank Wilson,Consumer,United States,Washington,Spokane,West,PROD-1040,Technology,Monitors,27-inch 4K Monitor,1629.6,4,0.03,175.13,PayPal
+CA-2023-142,2023-09-15,2023-09-21,Second Class,CU-102,Ben Carter,Corporate,United States,New York,Buffalo,East,PROD-1041,Office Supplies,Storage,File Cabinet,404.8,2,0.12,24.86,Credit Card
+CA-2023-143,2023-03-12,2023-03-13,Second Class,CU-121,Uma Adams,Home Office,United States,Colorado,Denver,West,PROD-1042,Furniture,Tables,Wood Executive Desk,1879.2,3,0.28,255.84,Wire Transfer
+CA-2023-144,2023-01-10,2023-01-15,Same Day,CU-129,Charlotte Adams,Corporate,United States,Texas,Houston,Central,PROD-1043,Technology,Laptops,ProBook 14,1470,2,0.25,201.14,Credit Card
+CA-2023-145,2023-01-25,2023-01-29,Standard Class,CU-119,Samuel Green,Consumer,United States,Ohio,Cleveland,Central,PROD-1044,Furniture,Furnishings,Decorative Desk Lamp,388.8,4,0.19,57.23,Credit Card
+CA-2023-146,2023-09-21,2023-09-25,First Class,CU-132,Felix Brooks,Corporate,United States,New York,Albany,East,PROD-1045,Technology,Laptops,ProBook 14,5644.8,6,0.04,677.9,Debit Card
+CA-2023-147,2023-09-26,2023-10-02,Standard Class,CU-137,Kara Jenkins,Home Office,United States,Washington,Seattle,West,PROD-1046,Office Supplies,Storage,File Cabinet,163.3,1,0.29,20.6,Wire Transfer
+CA-2023-148,2023-05-10,2023-05-11,Standard Class,CU-131,Ella Turner,Consumer,United States,Arizona,Phoenix,West,PROD-1047,Furniture,Chairs,Ergonomic Office Chair,889.2,3,0.24,69.6,PayPal
+CA-2023-149,2023-11-26,2023-11-29,Second Class,CU-109,Isabella Moore,Corporate,United States,New Jersey,Newark,East,PROD-1048,Furniture,Chairs,Ergonomic Office Chair,2012.4,6,0.14,256.29,Debit Card
+CA-2023-150,2023-05-31,2023-06-04,First Class,CU-105,Emily Garcia,Corporate,United States,Michigan,Detroit,Central,PROD-1049,Technology,Accessories,USB-C Hub,54.72,1,0.24,16.09,PayPal
+CA-2023-151,2023-01-19,2023-01-23,First Class,CU-133,Gina Morris,Home Office,United States,Texas,Austin,South,PROD-1050,Office Supplies,Paper,Copy Paper Ream,146.85,3,0.11,30.74,PayPal
+CA-2023-152,2023-07-24,2023-08-01,Same Day,CU-108,Henry Lopez,Consumer,United States,Colorado,Boulder,West,PROD-1051,Technology,Printers,Compact Inkjet Printer,1188,4,0.1,66.71,PayPal
+CA-2023-153,2023-02-10,2023-02-17,First Class,CU-134,Hugo Stone,Consumer,United States,Texas,San Antonio,Central,PROD-1052,Furniture,Furnishings,Standing Desk Lamp,525,5,0.3,50.01,PayPal
+CA-2023-154,2023-06-06,2023-06-14,Same Day,CU-107,Grace Hall,Home Office,United States,North Carolina,Raleigh,South,PROD-1053,Furniture,Tables,Glass Meeting Table,2652,5,0.22,220.99,PayPal
+CA-2023-155,2023-05-21,2023-05-22,Second Class,CU-129,Charlotte Adams,Corporate,United States,Ohio,Columbus,Central,PROD-1054,Furniture,Chairs,Ergonomic Office Chair,312,1,0.2,27.1,Credit Card
+CA-2023-156,2023-03-06,2023-03-08,Same Day,CU-110,Jack Brooks,Consumer,United States,Michigan,Detroit,Central,PROD-1055,Technology,Phones,Smartphone Stand,84.7,2,0.23,22.13,Credit Card
+CA-2023-157,2023-07-10,2023-07-18,Same Day,CU-139,Mila Nguyen,Corporate,United States,Michigan,Detroit,Central,PROD-1056,Furniture,Bookcases,Wooden Storage Bookcase,448.2,1,0.17,51.15,PayPal
+CA-2023-158,2023-04-06,2023-04-14,First Class,CU-118,Rachel Scott,Home Office,United States,California,Los Angeles,West,PROD-1057,Furniture,Furnishings,Decorative Desk Lamp,528,5,0.12,73.2,PayPal
+CA-2023-159,2023-04-13,2023-04-15,Same Day,CU-129,Charlotte Adams,Corporate,United States,Ohio,Columbus,Central,PROD-1058,Furniture,Storage,Mobile Filing Cabinet,355.2,2,0.26,47.34,Credit Card
+CA-2023-160,2023-10-09,2023-10-14,Second Class,CU-121,Uma Adams,Home Office,United States,Colorado,Denver,West,PROD-1059,Technology,Accessories,Wireless Mouse,71.04,3,0.26,19.87,PayPal
+CA-2023-161,2023-03-13,2023-03-17,First Class,CU-133,Gina Morris,Home Office,United States,Florida,Miami,South,PROD-1060,Furniture,Furnishings,Decorative Desk Lamp,475.2,4,0.01,65.37,Wire Transfer
+CA-2023-162,2023-06-08,2023-06-15,Same Day,CU-136,Jacob Reed,Consumer,United States,New York,New York City,East,PROD-1061,Furniture,Bookcases,Wooden Storage Bookcase,2527.2,6,0.22,287.08,Credit Card
+CA-2023-163,2023-08-27,2023-09-02,Second Class,CU-109,Isabella Moore,Corporate,United States,New York,Buffalo,East,PROD-1062,Office Supplies,Binders,Executive Binder Pack,162.8,2,0.26,29.18,Debit Card
+CA-2023-164,2023-09-23,2023-09-26,Second Class,CU-128,Bryan Gray,Consumer,United States,Texas,Houston,Central,PROD-1063,Office Supplies,Art,Presentation Board,199.5,3,0.05,32.95,PayPal
+CA-2023-165,2023-05-09,2023-05-13,First Class,CU-134,Hugo Stone,Consumer,United States,Ohio,Cleveland,Central,PROD-1064,Technology,Tablets,8-inch Tablet,2300.4,6,0.29,226.41,Credit Card
+CA-2023-166,2023-03-29,2023-04-04,Standard Class,CU-133,Gina Morris,Home Office,United States,Georgia,Atlanta,South,PROD-1065,Technology,Laptops,EliteBook 15,7177.5,5,0.01,1585.72,Credit Card
+CA-2023-167,2023-11-13,2023-11-14,First Class,CU-137,Kara Jenkins,Home Office,United States,Washington,Spokane,West,PROD-1066,Furniture,Furnishings,Standing Desk Lamp,438,4,0.27,64.11,Wire Transfer
+CA-2023-168,2023-08-21,2023-08-23,Same Day,CU-116,Patrick Young,Corporate,United States,Texas,Austin,South,PROD-1067,Technology,Printers,Compact Inkjet Printer,1940.4,6,0.02,177.63,Wire Transfer
+CA-2023-169,2023-06-13,2023-06-19,Standard Class,CU-114,Nathan Hall,Consumer,United States,Illinois,Chicago,Central,PROD-1068,Office Supplies,Binders,Executive Binder Pack,422.4,4,0.04,51.48,PayPal
+CA-2023-170,2023-08-19,2023-08-23,Same Day,CU-116,Patrick Young,Corporate,United States,Florida,Orlando,South,PROD-1069,Office Supplies,Appliances,Air Purifier,407.4,2,0.03,36.92,Wire Transfer
+CA-2023-171,2023-10-23,2023-10-29,Same Day,CU-116,Patrick Young,Corporate,United States,Georgia,Atlanta,South,PROD-1070,Technology,Phones,Smartphone Stand,84.7,2,0.23,23.7,Wire Transfer
+CA-2023-172,2023-07-21,2023-07-29,Standard Class,CU-120,Tara Lewis,Corporate,United States,Florida,Miami,South,PROD-1071,Office Supplies,Labels,Adhesive Name Labels,90.24,2,0.06,15.29,PayPal
+CA-2023-173,2023-10-02,2023-10-03,First Class,CU-132,Felix Brooks,Corporate,United States,Virginia,Richmond,East,PROD-1072,Technology,Laptops,ProBook 14,852.6,1,0.13,156.49,Wire Transfer
+CA-2023-174,2023-10-19,2023-10-23,Same Day,CU-124,Xavier Clark,Home Office,United States,Arizona,Phoenix,West,PROD-1073,Furniture,Chairs,Ergonomic Office Chair,971.1,3,0.17,39.13,PayPal
+CA-2023-175,2023-02-19,2023-02-26,First Class,CU-140,Noah Barnes,Home Office,United States,New York,New York City,East,PROD-1074,Technology,Accessories,Wireless Mouse,72.96,3,0.24,16.6,Debit Card
+CA-2023-176,2023-01-24,2023-01-25,Same Day,CU-113,Mia Thompson,Corporate,United States,Arizona,Phoenix,West,PROD-1075,Technology,Laptops,ProBook 14,1548.4,2,0.21,267.18,Debit Card
+CA-2023-177,2023-11-10,2023-11-16,First Class,CU-139,Mila Nguyen,Corporate,United States,Illinois,Chicago,Central,PROD-1076,Technology,Tablets,8-inch Tablet,950.4,2,0.12,139.05,PayPal
+CA-2023-178,2023-09-01,2023-09-02,Same Day,CU-133,Gina Morris,Home Office,United States,Texas,Austin,South,PROD-1077,Technology,Printers,Color Laser Printer,1404,3,0.1,63.66,PayPal
+CA-2023-179,2023-12-02,2023-12-06,Same Day,CU-102,Ben Carter,Corporate,United States,Virginia,Richmond,East,PROD-1078,Technology,Laptops,ProBook 14,5762.4,6,0.02,733.34,Debit Card
+CA-2023-180,2023-01-10,2023-01-18,Second Class,CU-116,Patrick Young,Corporate,United States,Florida,Miami,South,PROD-1079,Furniture,Chairs,Ergonomic Office Chair,1017.9,3,0.13,89.39,Wire Transfer
